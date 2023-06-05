@@ -32,4 +32,4 @@ CREATE TABLE "melon" (
 
 cursor.execute(sql) # sql 을 실행
 con.commit() # 적용
-con.close()  # db닫기
+con.close()  # db닫기 

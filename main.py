@@ -38,4 +38,4 @@ elif num == '3':
 # artist = input('가수이름입력: ')
 # m_list = dbdb.get_one_data(artist)
 # for m in m_list:
-#     print(f'{m[0]}위 {m[1]} - {m[2]}')
+#     print(f'{m[0]}위 {m[1]} - {m[2]}')  

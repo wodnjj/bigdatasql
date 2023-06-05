@@ -18,4 +18,4 @@ print(cursor.fetchone())
 # # print(all_data)
 
 # for d in all_data:
-#     print(f'{d[0]}위 {d[1]} - {d[2]}')
+#     print(f'{d[0]}위 {d[1]} - {d[2]}') 

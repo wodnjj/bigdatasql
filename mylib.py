@@ -51,4 +51,4 @@ def melon():
     else:
             print(f"HTTP 요청 실패 코드: {response.status_code}")
     
-    return m_list # 리스트 반환
+    return m_list # 리스트 반환 
